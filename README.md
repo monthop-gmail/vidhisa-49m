@@ -17,6 +17,7 @@
 | เอกสาร | สถานะ | รายละเอียด |
 |--------|--------|-----------|
 | [ร่างระบบบันทึกผล (Draft 001)](docs/draft-001-system-design.md) | ร่าง | ช่องทางบันทึก, Backend, Dashboard, Gamification |
+| [แนวทางตรวจจับความผิดปกติ](docs/anti-fraud-detection.md) | ร่าง | Anti-fraud/Anti-spam 3 ระดับ |
 
 ## ความน่าเชื่อถือของข้อมูล (Data Integrity)
 
