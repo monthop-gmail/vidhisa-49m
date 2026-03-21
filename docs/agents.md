@@ -24,7 +24,7 @@
       ▼         ▼
 ┌──────────┐ ┌──────────┐
 │Claude Code│ │Claude Code│
-│vithisa-49m│ │  -dev     │
+│vidhisa-49m│ │  -dev     │
 │นักวิเคราะห์│ │นักพัฒนา   │
 └──────────┘ └──────────┘
 ```
@@ -65,7 +65,7 @@
    - อัพเดท GitHub Issues / Project Board
 
 3. **เตรียมและติดตามประชุม**
-   - ช่วยจัดวาระประชุม (→ ส่งให้ Claude Code ใน vithisa-49m)
+   - ช่วยจัดวาระประชุม (→ ส่งให้ Claude Code ใน vidhisa-49m)
    - สรุปผลประชุม + มติ
    - ติดตาม action items หลังประชุม
 

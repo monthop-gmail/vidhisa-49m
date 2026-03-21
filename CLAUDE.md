@@ -1,4 +1,4 @@
-# CLAUDE.md — vithisa-49m (เอกสาร)
+# CLAUDE.md — vidhisa-49m (เอกสาร)
 
 ## บทบาทของ AI ใน Repo นี้
 
@@ -20,7 +20,7 @@
 
 โครงการวิทิสา 49 ล้านนาที — ระบบบันทึกและประมวลผลการปฏิบัติสมาธิวิทิสา
 - **Deadline:** 2026-07-31
-- **Dev repo:** [vithisa-49m-dev](https://github.com/monthop-gmail/vithisa-49m-dev) — โค้ด, API, Dashboard, DB
+- **Dev repo:** [vidhisa-49m-dev](https://github.com/monthop-gmail/vidhisa-49m-dev) — โค้ด, API, Dashboard, DB
 
 ## Repo นี้คืออะไร
 
